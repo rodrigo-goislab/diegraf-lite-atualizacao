@@ -1,0 +1,10 @@
+{
+  "assinatura": "985fd8021fe51b3604e4c53eab87eb64683a0494eb99b1d22a8465ab26f52d621807d123c338def15181d6aeb99520ca18ae76231ed1ad5a0a3ce3e5cb152801",
+  "data": "2026-10-10",
+  "esquema": 1,
+  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.0.1/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
+  "notas": "Atualização automática: a partir desta versão o programa avisa, baixa e instala as novas versões sozinho (o Windows pede uma confirmação de administrador). Ao atualizar por cima de uma versão anterior, o instalador remove os arquivos antigos do programa.",
+  "sha256": "80090b7d21d5d23ee0394fbab5a06f6e2716882866e3d8688ef12fadaf2a5bdb",
+  "tamanho": 286052241,
+  "versao": "1.0.1"
+}
