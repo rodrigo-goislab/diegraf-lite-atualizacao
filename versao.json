@@ -1,10 +1,10 @@
 {
-  "assinatura": "985fd8021fe51b3604e4c53eab87eb64683a0494eb99b1d22a8465ab26f52d621807d123c338def15181d6aeb99520ca18ae76231ed1ad5a0a3ce3e5cb152801",
-  "data": "2026-10-10",
+  "assinatura": "c518d4448c84b922e57318758da85bdbcc7425756757d1b74189b5a46b5554e915a57d5ff0e527d13e22d97f2d404b2061781e6c4534b0a93420407d18f7b60e",
+  "data": "2026-10-13",
   "esquema": 1,
-  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.0.1/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
-  "notas": "Atualização automática: a partir desta versão o programa avisa, baixa e instala as novas versões sozinho (o Windows pede uma confirmação de administrador). Ao atualizar por cima de uma versão anterior, o instalador remove os arquivos antigos do programa.",
-  "sha256": "80090b7d21d5d23ee0394fbab5a06f6e2716882866e3d8688ef12fadaf2a5bdb",
-  "tamanho": 286052241,
-  "versao": "1.0.1"
+  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.0/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
+  "notas": "Versão 1.1.0\n- Versão PRO: Montagem para gravação de chapa, Aproveitamento em lote, PDF 1:1 da folha e Arte no 3D (liberadas com o serial PRO).\n- Licença conferida pela internet e reativação em outro computador (formatou ou trocou de PC).\n- Aproveitamento mais inteligente: todos os papéis, montagem mista, orientação da gráfica, parte da pinça e folha inteira nas máquinas maiores.\n- Correções no fundo automático e no côncavo.",
+  "sha256": "923efebc3d500e312d3476b38def58b83c9620113552dda165abec3bfb8c8099",
+  "tamanho": 290387743,
+  "versao": "1.1.0"
 }
