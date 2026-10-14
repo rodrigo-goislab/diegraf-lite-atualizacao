@@ -1,10 +1,10 @@
 {
-  "assinatura": "c518d4448c84b922e57318758da85bdbcc7425756757d1b74189b5a46b5554e915a57d5ff0e527d13e22d97f2d404b2061781e6c4534b0a93420407d18f7b60e",
+  "assinatura": "17dd34c11eb8aeedde77a8169ebdeb3c598d502b679c99d1ec48a98e0309ea745bc8dbfce8c6b38b10ebd37ee6b4ad1dcb547d23ba12ac23faa97ec7985e5c0c",
   "data": "2026-10-13",
   "esquema": 1,
-  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.0/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
-  "notas": "Versão 1.1.0\n- Versão PRO: Montagem para gravação de chapa, Aproveitamento em lote, PDF 1:1 da folha e Arte no 3D (liberadas com o serial PRO).\n- Licença conferida pela internet e reativação em outro computador (formatou ou trocou de PC).\n- Aproveitamento mais inteligente: todos os papéis, montagem mista, orientação da gráfica, parte da pinça e folha inteira nas máquinas maiores.\n- Correções no fundo automático e no côncavo.",
-  "sha256": "923efebc3d500e312d3476b38def58b83c9620113552dda165abec3bfb8c8099",
-  "tamanho": 290387743,
-  "versao": "1.1.0"
+  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.2/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
+  "notas": "Corrige: duplo clique num projeto (.glab) agora abre o projeto no Avançado; o clique para adicionar vazadores volta a funcionar; arrastar na Montagem e na arte do 3D; fechar a janela 3D.",
+  "sha256": "23fe4363e1fd6888f382e5593c6e3dcc1836b48c9a921d7a03f64c60cefef359",
+  "tamanho": 290406837,
+  "versao": "1.1.2"
 }
