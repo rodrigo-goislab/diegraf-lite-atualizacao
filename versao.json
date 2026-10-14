@@ -1,10 +1,10 @@
 {
-  "assinatura": "17dd34c11eb8aeedde77a8169ebdeb3c598d502b679c99d1ec48a98e0309ea745bc8dbfce8c6b38b10ebd37ee6b4ad1dcb547d23ba12ac23faa97ec7985e5c0c",
+  "assinatura": "5b411879a4191244900331e4704368f12a683d152723555d98dc4b948dbcf2d42a1a52100d3bcf1d923850c70a1edc022b47077ce96a76a01fd434fdb353dd0d",
   "data": "2026-10-13",
   "esquema": 1,
-  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.2/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
-  "notas": "Corrige: duplo clique num projeto (.glab) agora abre o projeto no Avançado; o clique para adicionar vazadores volta a funcionar; arrastar na Montagem e na arte do 3D; fechar a janela 3D.",
-  "sha256": "23fe4363e1fd6888f382e5593c6e3dcc1836b48c9a921d7a03f64c60cefef359",
-  "tamanho": 290406837,
-  "versao": "1.1.2"
+  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.3/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
+  "notas": "O programa agora avisa de versao nova logo ao abrir (consulta a cada abertura). Inclui as correcoes da 1.1.2: duplo clique no projeto (.glab), vazadores, arraste na Montagem e na arte do 3D, fechar a janela 3D.",
+  "sha256": "36d35824e69fc1f375dedb989e4b09a8def5e614500e7f7c8d704714745e7e32",
+  "tamanho": 290359203,
+  "versao": "1.1.3"
 }
