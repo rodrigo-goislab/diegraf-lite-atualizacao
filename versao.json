@@ -1,10 +1,10 @@
 {
-  "assinatura": "443bb2436cdf13ed97dc90a505f4ce7e4abb0f62ba7a3a6a2204c8774869bb0a00214fc4bae1b12438ad75d0eb60893e33241626917fc26a53b58f10c9cc2809",
-  "data": "2026-10-13",
+  "assinatura": "6ce449d243f4dc0f86006a7ae3cbf3584255189aa14f62e0d963054a3a0b94ffc29d820d0d4189fbdb6c0c935f187c207f44e9bd1aae2a634b1852563d8ba702",
+  "data": "2026-10-17",
   "esquema": 1,
-  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.4/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
-  "notas": "O nome do programa agora segue o serial: DIEGRAF STUDIO PRO com o Pro ativo e DIEGRAF STUDIO LITE sem ele (sem o v1.0). O Sobre mostra a versao instalada.",
-  "sha256": "951e957305c2902cac846e6fe10649f5bf9774d0cb179bda86d9229470dc03ff",
-  "tamanho": 290432914,
-  "versao": "1.1.4"
+  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.5/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
+  "notas": "Vazadores: circulo ou meia-lua com vinco, mover, aumentar, lado e angulo de 15 em 15 graus, par espelhado; a meia-lua dobra para dentro no 3D. Configuracao de maquinas e papeis da GOIS LAB: dois cliques no arquivo .dgconfig (ou Ferramentas > Importar configuracao da GOIS LAB).",
+  "sha256": "07693839743de3115319505c2f3203b024ab39c6e10b3377843c8f8fc7b2c7fc",
+  "tamanho": 320802938,
+  "versao": "1.1.5"
 }
