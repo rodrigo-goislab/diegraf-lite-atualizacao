@@ -1,10 +1,10 @@
 {
-  "assinatura": "0172979bd8c7862ee3a7ec8514c88899693e7b226336d05fadbeff8ec42aea02cbbf01b2bef70442ca21454213e34c6bfc4df6eb98caacf51c1b12f5f1724908",
-  "data": "2026-10-17",
+  "assinatura": "48790080d8fa05bc5b09298d94712e4eacff52299a5a7965d82d0e5b85c1180e17021c2c03ceb9f2b13c0603968b1293c915eb04934d40a53106c7a9da63170e",
+  "data": "2026-10-18",
   "esquema": 1,
-  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.6/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
-  "notas": "A busca de atualizacao vai direto para a versao mais nova (antes podia passar por versoes intermediarias). Instalador 30 MB menor.",
-  "sha256": "bbfb12ff810c00466adb49b2f44c5c9906b0ed534b919eda2f46eb351d764037",
-  "tamanho": 290568327,
-  "versao": "1.1.6"
+  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.7/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
+  "notas": "Importar montagem (PRO): a imposicao que a grafica ja usa, lida do PDF da faca montada, vira a base padrao da faca; pela pagina inicial abre o projeto com 2D, 3D e aproveitamento preenchidos. Ajustes de tela na aba Montagem.",
+  "sha256": "2196058bb224227fd66f70708c9e53da85dc8d3a28c9fe82cafce7f524a00dbb",
+  "tamanho": 290683775,
+  "versao": "1.1.7"
 }
