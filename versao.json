@@ -1,10 +1,10 @@
 {
-  "assinatura": "48790080d8fa05bc5b09298d94712e4eacff52299a5a7965d82d0e5b85c1180e17021c2c03ceb9f2b13c0603968b1293c915eb04934d40a53106c7a9da63170e",
-  "data": "2026-10-18",
+  "assinatura": "bf8b1c991b1ce821a6e06a47aa88e7adc3955938c185c94970163ef8e0f18fdc9c2ccfdefa9018acfdfe4ec83ebc4e1adb55afd4624d404c57d57b0c3e7ef204",
+  "data": "2026-11-01",
   "esquema": 1,
-  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.7/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
-  "notas": "Importar montagem (PRO): a imposicao que a grafica ja usa, lida do PDF da faca montada, vira a base padrao da faca; pela pagina inicial abre o projeto com 2D, 3D e aproveitamento preenchidos. Ajustes de tela na aba Montagem.",
-  "sha256": "2196058bb224227fd66f70708c9e53da85dc8d3a28c9fe82cafce7f524a00dbb",
-  "tamanho": 290683775,
-  "versao": "1.1.7"
+  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.8/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
+  "notas": "3D inteligente: vinco curvo dobrando de verdade e faca importada montando melhor. 3D para o cliente (Pro): página web com montar/desmontar, giro livre, AR no iPhone, link de 7 dias e botão APROVE configurável. Arte da faca importada direto no 3D. Seletor de substrato na aba 3D e o novo Duplex pardo fora. Sacola de nylon com dobra dupla no topo (opcional). Correções: janelinhas ao gerar o 3D, arte deslocada na tampa, projeto novo zera tudo.",
+  "sha256": "e89460c26d3715bc2eb16da8f3d0fa3b8931dba1c3b84a6bea803a0b125c8f98",
+  "tamanho": 291224606,
+  "versao": "1.1.8"
 }
