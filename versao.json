@@ -1,10 +1,10 @@
 {
-  "assinatura": "bf8b1c991b1ce821a6e06a47aa88e7adc3955938c185c94970163ef8e0f18fdc9c2ccfdefa9018acfdfe4ec83ebc4e1adb55afd4624d404c57d57b0c3e7ef204",
-  "data": "2026-11-01",
+  "assinatura": "c368b3da42916f086016aeca85ebcc6eb9cdc658f04c17e1f7ff7334e49df132a05438ebe3747fb895764d05fd1b544e8c72eb76b3a8e763bacfdc5d0f480c09",
+  "data": "2026-11-02",
   "esquema": 1,
-  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.8/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
-  "notas": "3D inteligente: vinco curvo dobrando de verdade e faca importada montando melhor. 3D para o cliente (Pro): página web com montar/desmontar, giro livre, AR no iPhone, link de 7 dias e botão APROVE configurável. Arte da faca importada direto no 3D. Seletor de substrato na aba 3D e o novo Duplex pardo fora. Sacola de nylon com dobra dupla no topo (opcional). Correções: janelinhas ao gerar o 3D, arte deslocada na tampa, projeto novo zera tudo.",
-  "sha256": "e89460c26d3715bc2eb16da8f3d0fa3b8931dba1c3b84a6bea803a0b125c8f98",
-  "tamanho": 291224606,
-  "versao": "1.1.8"
+  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.9/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
+  "notas": "Montagem sem encaixe com todas as facas na mesma posição (fora da regra dos fundos para as bordas). Menu lateral com o botão Montagem para chapa e ícone do Aproveitamento corrigido. 3D: texto de baixo e Árvore de faces não ficam mais cortados. Projeto salvo reabre com o substrato escolhido. Termo de Uso atualizado (privacidade/LGPD, direito de arrependimento) e licenças dos componentes de terceiros incluídas. Instalador menor.",
+  "sha256": "5ee8d91196461663dbb53a00a52f43b8002ef1c085106b43a80b9ab96cf7c7ab",
+  "tamanho": 268755816,
+  "versao": "1.1.9"
 }
