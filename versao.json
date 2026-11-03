@@ -1,10 +1,10 @@
 {
-  "assinatura": "c368b3da42916f086016aeca85ebcc6eb9cdc658f04c17e1f7ff7334e49df132a05438ebe3747fb895764d05fd1b544e8c72eb76b3a8e763bacfdc5d0f480c09",
+  "assinatura": "5c5d5a8c642304674604648219fea98a287762d7a98ef155da940ed412e607d4559a48d43406ca79ca4209cc1779da83d3b3ba4fc16f339073720bfd5f254f05",
   "data": "2026-11-02",
   "esquema": 1,
-  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.9/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
-  "notas": "Montagem sem encaixe com todas as facas na mesma posição (fora da regra dos fundos para as bordas). Menu lateral com o botão Montagem para chapa e ícone do Aproveitamento corrigido. 3D: texto de baixo e Árvore de faces não ficam mais cortados. Projeto salvo reabre com o substrato escolhido. Termo de Uso atualizado (privacidade/LGPD, direito de arrependimento) e licenças dos componentes de terceiros incluídas. Instalador menor.",
-  "sha256": "5ee8d91196461663dbb53a00a52f43b8002ef1c085106b43a80b9ab96cf7c7ab",
-  "tamanho": 268755816,
-  "versao": "1.1.9"
+  "instalador_url": "https://github.com/rodrigo-goislab/diegraf-lite-atualizacao/releases/download/v1.1.10/DIEGRAF_STUDIO_LITE_Setup_v1.0.exe",
+  "notas": "Correção importante: o programa abre sempre na tela Avançada. A tela Clássica foi aposentada (nas versões 1.1.8 e 1.1.9 ela não abria, e quem a tinha escolhido ficava sem acesso ao programa).",
+  "sha256": "79966e643d50398c9b1fc070c25cc5a6c105a9e861def0fea172251d80d68ab9",
+  "tamanho": 268731076,
+  "versao": "1.1.10"
 }
